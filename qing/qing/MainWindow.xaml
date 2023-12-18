@@ -7,11 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="218,110,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="218,256,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="218,200,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.018,1.5"/>
         <Grid HorizontalAlignment="Left" Height="234" Margin="204,89,0,0" VerticalAlignment="Top" Width="277">
-            <Button Content="Button" HorizontalAlignment="Left" Margin="102,20,0,0" VerticalAlignment="Top" Width="75"/>
+            <Button Content="Button" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Width="75"/>
             <Button Content="Button" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Width="75"/>
             <Button Content="Button" HorizontalAlignment="Left" Margin="10,136,0,0" VerticalAlignment="Top" Width="75"/>
         </Grid>
